@@ -2,6 +2,6 @@ package hello
 
 import "fmt"
 
-func Hello(name string) {
-	fmt.Sprintf("Hello %s \n", name)
+func Hello(name string) string {
+	return fmt.Sprintf("Hello %s! \n", name)
 }
