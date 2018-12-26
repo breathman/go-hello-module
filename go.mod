@@ -1,1 +1,1 @@
-module github.com/breathman/go-mod-example
+module github.com/breathman/go-hello-module
